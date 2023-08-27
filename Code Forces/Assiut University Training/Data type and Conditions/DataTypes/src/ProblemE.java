@@ -5,8 +5,8 @@ public class ProblemE {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double r = scanner.nextDouble();
-        double pi = 3.141592653;
-        Double area = r * r * pi;
+
+        Double area = Math.pow(r, 2) * Math.PI;
         DecimalFormat decimalFormat = new DecimalFormat("#.000000000");
         System.out.println(decimalFormat.format(area));
     }
