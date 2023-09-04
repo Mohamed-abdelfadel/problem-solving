@@ -8,7 +8,6 @@ public class ProblemO {
         String expression = scanner.next();
         if (expression.contains("-")) {
             List<String> chars = Arrays.stream(expression.split("-")).toList();
-
             int i = chars.stream().mapToInt(Integer::parseInt).reduce((s1, s2) -> s1 - s2).orElse(0);
             System.out.println(i);
         } else if (expression.contains("+")) {
