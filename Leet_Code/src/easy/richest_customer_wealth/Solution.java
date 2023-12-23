@@ -1,4 +1,4 @@
-package org.problemsolving.easy.richest_customer_wealth;
+package easy.richest_customer_wealth;
 
 import java.util.Arrays;
 

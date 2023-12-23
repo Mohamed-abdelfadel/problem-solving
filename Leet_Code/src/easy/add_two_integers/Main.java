@@ -1,4 +1,4 @@
-package org.problemsolving.easy.add_two_integers;
+package easy.add_two_integers;
 
 public class Main {
 

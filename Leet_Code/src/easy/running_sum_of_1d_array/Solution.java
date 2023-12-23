@@ -1,4 +1,4 @@
-package org.problemsolving.easy.running_sum_of_1d_array;
+package easy.running_sum_of_1d_array;
 
 public class Solution {
     public int[] runningSum(int[] nums) {
