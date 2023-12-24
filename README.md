@@ -41,8 +41,6 @@ This repository serves as a personal record of my journey in solving coding prob
 │   ├── src
 │       ├──
 │       └── ...
-├── .gitignore
-├── README.md
 └── ...
 ```
 
