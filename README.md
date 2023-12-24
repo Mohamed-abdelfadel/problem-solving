@@ -1,23 +1,65 @@
-# Problem-Solving 
-#### This repository was created to contain all the problems I solved recently in LeetCode and CodeForces (for now). I hope you encourage me and make my answers more efficient 
+# Personal Problem Solving Repository
 
-## Technologies used:
-* Java
-* Streams
-* Lists
+Welcome to my personal problem-solving repository! This repository is a collection of solutions to various coding problems from different online platforms, including GeeksforGeeks, LeetCode, HackerRank, and Codeforces. All solutions are implemented in Java.
 
-## What it does:
-  As mentioned it is a problem-solving repository, feel free to review it, I will be happy if you added something I didn't know
-  Its educational purpose is just to solve problems and try to make comments to clarify why I did these steps instead of others
+## Table of Contents
 
-## How to get the project 
-* Make sure to have some kind of IDE that runs Java (IntelliJ, Eclipse)
-* Makes sure to have Java version 8+
-* Setup new Java project
-* Clone the files into your project
+- [Introduction](#introduction)
+- [Platforms](#platforms)
+- [Directory Structure](#directory-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Found an issue?
-  if you found a bug or searching for improvement feel free to submit it in the issues tab 
+## Introduction
 
-## Known issues (in progress):
-* Code Forces -> Assuit University -> Data types -> ProblemO : needs some enhancements 
+This repository serves as a personal record of my journey in solving coding problems from different online platforms. The solutions are implemented in Java and are organized by the platform they belong to. Feel free to explore, learn, and contribute!
+
+## Platforms
+
+1. [GeeksforGeeks](./geeksforgeeks)
+2. [LeetCode](./leetcode)
+3. [HackerRank](./hackerrank)
+4. [Codeforces](./codeforces)
+
+## Directory Structure
+
+```
+.
+├── geeksforgeeks
+│   ├── src
+│       ├──
+│       └── ...
+├── leetcode
+│   ├── src
+│       ├──
+│       └── ...
+├── hackerrank
+│   ├── src
+│       ├──
+│       └── ...
+├── codeforces
+│   ├── src
+│       ├──
+│       └── ...
+├── .gitignore
+├── README.md
+└── ...
+```
+
+Each platform has its own directory containing Java files for each solved problem. The filenames are named according to the problem or a descriptive title.
+
+## Contributing
+
+If you'd like to contribute by adding your own solutions, fixing issues, or improving documentation, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Test your changes.
+5. Submit a pull request.
+
+Your contributions are highly appreciated!
+
+## License
+
+This repository is licensed under the [MIT License](./LICENSE). Feel free to use the code, contribute, or share it with others.
